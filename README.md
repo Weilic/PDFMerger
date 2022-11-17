@@ -1,2 +1,2 @@
 # PDFMerger
-Merger multiple PDF files
+## Merger multiple PDF files
